@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(51, 133, 153);
+}
+#h1{
+    text-align: center;
+    font-size: 40px;
+}
+#h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#p1{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#p2{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#p3{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#p4{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#p5{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#p6{
+    font-family: 'Courier New', Courier, monospace;
+}
+#div1{
+    font-family: 'Courier New', Courier, monospace
+}
+
+#div2{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#div3{
+    font-family: 'Courier New', Courier, monospace;
+}
+td:hover {
+    background-color: yellow;
+}
