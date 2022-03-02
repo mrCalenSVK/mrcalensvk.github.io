@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(51, 133, 153);
+    background-color: rgb(252, 252, 252);
 }
 #h1{
     text-align: center;
@@ -46,5 +46,5 @@ body {
     font-family: 'Courier New', Courier, monospace;
 }
 td:hover {
-    background-color: yellow;
+    background-color: rgb(255, 196, 0);
 }
